@@ -3,11 +3,11 @@
 /**
  * Fired during plugin activation
  *
- * @link       https://github.com/azman0101/WordPress-Plugin-Boilerplate
+ * @link       http://example.com
  * @since      1.0.0
  *
- * @package    Update_Compare
- * @subpackage Update_Compare/includes
+ * @package    Plugin_Name
+ * @subpackage Plugin_Name/includes
  */
 
 /**
@@ -16,11 +16,11 @@
  * This class defines all code necessary to run during the plugin's activation.
  *
  * @since      1.0.0
- * @package    Update_Compare
- * @subpackage Update_Compare/includes
+ * @package    Plugin_Name
+ * @subpackage Plugin_Name/includes
  * @author     Your Name <email@example.com>
  */
-class Update_Compare_Activator {
+class Plugin_Name_Activator {
 
 	/**
 	 * Short Description. (use period)

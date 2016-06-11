@@ -5,11 +5,11 @@
  *
  * This file is used to markup the public-facing aspects of the plugin.
  *
- * @link       https://github.com/azman0101/WordPress-Plugin-Boilerplate
+ * @link       http://example.com
  * @since      1.0.0
  *
- * @package    Update_Compare
- * @subpackage Update_Compare/public/partials
+ * @package    Plugin_Name
+ * @subpackage Plugin_Name/public/partials
  */
 ?>
 
